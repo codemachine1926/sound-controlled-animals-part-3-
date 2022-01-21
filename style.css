@@ -1,0 +1,20 @@
+body {
+
+    background-color: blanchedalmond;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+#div1 {
+
+    background-color:lightgrey ;
+}
+
+.footer {
+    background: linear-gradient(chocolate 80% ,blanchedalmond);
+    color: white;
+    text-shadow: 5px 5px 5px rgb(1, 1, 1);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
